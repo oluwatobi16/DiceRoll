@@ -1,2 +1,2 @@
 # DiceRoll
-A python dungeon crawler game
+A python guessing game
